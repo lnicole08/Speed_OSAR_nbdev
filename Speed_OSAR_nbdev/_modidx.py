@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://lnicole08.github.io',
                 'git_url': 'https://github.com/lnicole08/Speed_OSAR_nbdev',
                 'lib_path': 'Speed_OSAR_nbdev'},
-  'syms': {'Speed_OSAR_nbdev.core': {'Speed_OSAR_nbdev.core.foo': ('core.html#foo', 'Speed_OSAR_nbdev/core.py')}}}
+  'syms': {'Speed_OSAR_nbdev.core': {'Speed_OSAR_nbdev.core.foo': ('spare.html#foo', 'Speed_OSAR_nbdev/core.py')}}}
