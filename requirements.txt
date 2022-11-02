@@ -1,1 +1,1 @@
-git+https://github.com/ACCLAB/OSAR.git@master
+pip install osar
