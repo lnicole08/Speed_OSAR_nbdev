@@ -2,7 +2,7 @@ project:
   output-dir: _docs
 
 website:
-  title: "Speed_OSAR_nbdev"
+  title: "Speed-OSAR-nbdev"
   site-url: "https://lnicole08.github.io/Speed_OSAR_nbdev"
   description: "Speed_OSAR_nbdev"
   repo-branch: main
