@@ -1,5 +1,4 @@
 website:
   sidebar:
     contents:
-      - index.ipynb
       - 00_Speedtest-Finalised.ipynb
